@@ -1,8 +1,18 @@
 # PUBLIC DOSSIER
 
-Personal website and public dossier for **VECTOR-0**, built with **[Protocol Noir](https://github.com/sxthumb/neok2-protocol-noir)** — a monochrome GitHub Pages theme inspired by intelligence dossiers, technical manuals, and declassified reports.
+Personal website and public dossier for **VECTOR-0**, a monochrome GitHub Pages theme inspired by intelligence dossiers, technical manuals, and declassified reports.
 
 The site documents projects, research, engineering principles, and ongoing work through a high-density, data-first visual language focused on clarity and structure.
+
+Visit here!
+
+🡲 [**Visit here!**](https://github.com/sxthumb/neok2-protocol-noir)
+
+## THEME
+
+This repository uses the following GitHub theme [**Neok2 Protocol Noir**](https://github.com/sxthumb/neok2-protocol-noir)
+
+A Jekyll theme designed for documentation, research notes, technical reports, and personal dossiers where information takes priority over decoration.
 
 ## FEATURES
 
@@ -14,12 +24,6 @@ The site documents projects, research, engineering principles, and ongoing work 
 * Technical dossier inspired design
 * Zero-radius geometry
 * Monospaced data presentation
-
-## THEME
-
-This repository uses the following GitHub theme: [**Neok2 Protocol Noir**](https://github.com/sxthumb/neok2-protocol-noir)
-
-A Jekyll theme designed for documentation, research notes, technical reports, and personal dossiers where information takes priority over decoration.
 
 ---
 
