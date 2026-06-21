@@ -3,8 +3,7 @@ description: "High-density declassified technical index."
 classification: "SECRET // EYES ONLY"
 system_id: "SYS_REF_882"
 
-# Aqui a mágica acontece: o GitHub vai clonar o seu tema
 plugins:
   - jekyll-remote-theme
 
-remote_theme: seu-usuario-do-github/jekyll-theme-protocol-noir
+remote_theme: sxthumb/neok2-protocol-noir
