@@ -73,7 +73,7 @@ Researching high-density interfaces inspired by technical manuals, printed repor
 NODE.JS ................................ ACTIVE  
 TYPESCRIPT ............................. ACTIVE  
 NESTJS ................................. ACTIVE  
-SVELTE ................................ ACTIVE  
+SVELTE ................................. ACTIVE  
 POSTGRESQL ............................. ACTIVE  
 DOCKER ................................. ACTIVE  
 LINUX .................................. ACTIVE  
