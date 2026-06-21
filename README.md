@@ -17,10 +17,7 @@ The site documents projects, research, engineering principles, and ongoing work 
 
 ## THEME
 
-This repository uses:
-
-**Protocol Noir**
-https://github.com/sxthumb/neok2-protocol-noir
+This repository uses the following GitHub theme: [**Neok2 Protocol Noir**](https://github.com/sxthumb/neok2-protocol-noir)
 
 A Jekyll theme designed for documentation, research notes, technical reports, and personal dossiers where information takes priority over decoration.
 
